@@ -1,0 +1,10 @@
+D:\CCEE Sys\project\PrimeRestaurantMVC\PrimeRestaurantMVC\PrimeRestaurant\obj\Debug\net8.0\PrimeRestaurant.csproj.AssemblyReference.cache
+D:\CCEE Sys\project\PrimeRestaurantMVC\PrimeRestaurantMVC\PrimeRestaurant\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\CCEE Sys\project\PrimeRestaurantMVC\PrimeRestaurantMVC\PrimeRestaurant\obj\Debug\net8.0\PrimeRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCEE Sys\project\PrimeRestaurantMVC\PrimeRestaurantMVC\PrimeRestaurant\obj\Debug\net8.0\PrimeRestaurant.AssemblyInfoInputs.cache
+D:\CCEE Sys\project\PrimeRestaurantMVC\PrimeRestaurantMVC\PrimeRestaurant\obj\Debug\net8.0\PrimeRestaurant.AssemblyInfo.cs
+D:\CCEE Sys\project\PrimeRestaurantMVC\PrimeRestaurantMVC\PrimeRestaurant\obj\Debug\net8.0\PrimeRestaurant.csproj.CoreCompileInputs.cache
+D:\CCEE Sys\project\PrimeRestaurantMVC\PrimeRestaurantMVC\PrimeRestaurant\obj\Debug\net8.0\PrimeRestaurant.MvcApplicationPartsAssemblyInfo.cs
+D:\CCEE Sys\project\PrimeRestaurantMVC\PrimeRestaurantMVC\PrimeRestaurant\obj\Debug\net8.0\PrimeRestaurant.MvcApplicationPartsAssemblyInfo.cache
+D:\CCEE Sys\project\PrimeRestaurantMVC\PrimeRestaurantMVC\PrimeRestaurant\obj\Debug\net8.0\PrimeRestaurant.RazorAssemblyInfo.cache
+D:\CCEE Sys\project\PrimeRestaurantMVC\PrimeRestaurantMVC\PrimeRestaurant\obj\Debug\net8.0\PrimeRestaurant.RazorAssemblyInfo.cs
